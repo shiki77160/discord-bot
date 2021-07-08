@@ -1,0 +1,22 @@
+{
+    "token": "ODYxNTczMDA5ODk0NTM5Mjc0.YOLwZA.dnEAskp1xW1tAlMbocllGw0K-co",
+    "prefix": ")",
+    "greeting": {
+        "channel": "857688346368671755"
+    },
+    "reactionRole": {
+        "859083856429580298": {
+            "removable": true,
+            "emojis": [{
+                "name": "📀",
+                "roles": ["858390216871378964"]
+            }, {
+                "name": "🎉",
+                "roles": "858373558249979924"
+            }, {
+                "name": "🤝",
+                "roles": "858390227474448395"
+            }]
+        }
+    }
+}
